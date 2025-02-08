@@ -1,0 +1,9 @@
+typer
+rich
+scikit-learn
+numpy
+pandas
+sqlite3
+scapy
+joblib
+requests
