@@ -9,3 +9,6 @@ def init_db():
                         risk_level TEXT)''')
     conn.commit()
     conn.close()
+
+if __name__ == "__main__":
+    init_db()
