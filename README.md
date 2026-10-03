@@ -13,8 +13,8 @@ AI-Powered CLI for real-time cybersecurity threat detection, malware analysis, a
 ## 🔧 Installation
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone git clone https://github.com/sebibarrios/AI-ThreatScan-CLI.git
+cd AI-ThreatScan-CLI
 ```
 
 ### **2️⃣ Install Dependencies**
